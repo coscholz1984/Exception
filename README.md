@@ -1,6 +1,11 @@
 # Exception
 A point-and-click mystery adventure made in Adventure Game Studio
 
+![Screenshot 1](https://github.com/coscholz1984/Exception/Screenshot1.png?raw=true)
+![Screenshot 2](https://github.com/coscholz1984/Exception/Screenshot2.png?raw=true)  
+![Screenshot 3](https://github.com/coscholz1984/Exception/Screenshot3.png?raw=true)
+![Screenshot 4](https://github.com/coscholz1984/Exception/Screenshot4.png?raw=true)
+
 A mysterius researcher wanted to meet you. Is this connected to the strange activities that we recorded recently? This might be beyond what we have previously imagined, and go far deeper. Something long past is returning from the darkness. Will you find it? 
 
 Several open source art assets have been used to make this game:
