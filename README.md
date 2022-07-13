@@ -37,4 +37,8 @@ https://opengameart.org/content/ambience-pack-1-sci-fi-horror
 https://opengameart.org/content/old-city-theme  
 https://opengameart.org/content/endgame-singularity  
 
+Code:
+
+https://github.com/messengerbag/SpeechBubble/  
+
 All art work in this game inherits the licence from art that it is based on, unless otherwise stated. All novel art is published as CC0, otherwise known as public domain.
