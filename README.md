@@ -8,6 +8,8 @@ A point-and-click mystery adventure made in Adventure Game Studio
 
 A mysterius researcher wanted to meet you. Is this connected to the strange activities that we recorded recently? This might be beyond what we have previously imagined, and go far deeper. Something long past is returning from the darkness. Will you find it? 
 
+Download ready to play: [Window binaries](https://github.com/coscholz1984/Exception/blob/main/Release/Exception.7z)
+
 Several open source art assets have been used to make this game:
 
 Images:
