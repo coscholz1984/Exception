@@ -1,5 +1,5 @@
 # Exception
-A point-and-click mystery adventure made in Adventure Game Studio - by Chris Jones [AGS License](https://www.adventuregamestudio.co.uk/site/ags/legal/)
+A point-and-click mystery adventure made in Adventure Game Studio - AGS (AGS is authored by Chris Jones & others [AGS License](https://www.adventuregamestudio.co.uk/site/ags/legal/))
 
 ![Screenshot 1](https://github.com/coscholz1984/Exception/blob/main/Screenshot1.png?raw=true)
 ![Screenshot 2](https://github.com/coscholz1984/Exception/blob/main/Screenshot2.png?raw=true)  
